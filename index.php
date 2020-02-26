@@ -93,7 +93,7 @@
             ?></td>
     </tr>
     <tr>
-        <td colspan="2"><?php include __DIR__ . DIRECTORY_SEPARATOR . 'footer.php' ?> </td>
+        <td colspan="2"><?php include __DIR__ . DIRECTORY_SEPARATOR . 'footer.php' ?>  </td>
     </tr>
 </table>
 </body>
